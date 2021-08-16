@@ -1,6 +1,4 @@
-# Natalie Nevrelova
-
-## About
+# About
 
 I am a third-year BSc Psychology student at the University of Lincoln currently working on a multistudy paper under the supervision of Dr Ross Bartels and Dr Mark Gresswell. For the past two years, my research focus has been on the modern-day courtship of young adults to establish a baseline of typical courting behaviours of adults aged 18 - 25 years.
 
