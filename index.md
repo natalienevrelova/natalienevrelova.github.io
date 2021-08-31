@@ -10,7 +10,7 @@ I have worked on several projects across several psychological fields, including
 
 In my work I always strive to have a balance of research and applied psychology, which is why I aim to have most of my research directly applicable to clinical or non-clinical populations. My long-term goal is to design research and teach while working with a clinical population in an applied setting.
 
-<img src="images/natalie_nevrelova_profile_picture.jpg" alt="Natalie Nevrelova" width="400"/>
+<img src="images/natalie_nevrelova_profile_picture.jpg" alt="Natalie Nevrelova" width="300" img align="right"/>
 
 ## Experience
 
