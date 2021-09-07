@@ -1,4 +1,6 @@
 # CV
+# FULL CV HERE:
+[Natalie Nevrelova_CV.pdf](https://github.com/natalienevrelova/natalienevrelova.github.io/files/7122293/Natalie.Nevrelova_CV.pdf)
 ## Natalie Nevrelova 
 ## EDUCATION
 2019 - present	University of Lincoln Bachelor degree in Psychology
@@ -55,4 +57,3 @@ Nevrelova, N., Bartels, R. & Gresswell, M. (2021, April). Understanding the rela
 
 
 
-[Natalie Nevrelova_CV.pdf](https://github.com/natalienevrelova/natalienevrelova.github.io/files/7122293/Natalie.Nevrelova_CV.pdf)
