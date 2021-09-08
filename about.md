@@ -2,9 +2,11 @@
 
 ### [CEITEC – Central European Institute of Technology](https://www.ceitec.eu/)
 
-<p><img src="images/WhatsApp Image 2021-08-10 at 14.31.03.jpeg" alt="Work" style="width:40%;float:right;margin:0em 0em 0em 3em /></p>
+<p><img src="images/WhatsApp Image 2021-08-10 at 14.31.03.jpeg" alt="EEG" style="width:40%;float:right;margin:0em 0em 0em 3em /></p>
+  
 
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/CEITEC_logo.jpg" alt="CEITEC" style="width:40%;float:right;margin:0em 0em 0em 3em" /></p>
+  
 
 I spent 6 months working in the [Behavioral and Social Neuroscience research group](https://www.ceitec.eu/behavioural-and-social-neuroscience-milan-brazdil/rg32/publication) of [Milan Brazdil](https://www.ceitec.eu/prof-milan-brazdil-ph-d/u17040) under the supervision of [Lenka Jurkovicova](https://www.ceitec.eu/lenka-jurkovicova/u91788). During my internship I worked on an international COST Project „Memory and Cognition“, which included two measurements of healthy participants from the general population. In the neuroscience part of the measurements, we collected fMRI scans, DNA samples, EEG scan in a resting mode as well as performing a Pattern Glare task while EEG and Eye Tracking was recorded. In the second behavioral part of the measurements, I administered a battery of cognitive and memory tasks the participants completed in a lab on a computer as well as the intelligence measurement WAIS-III. I gained experience with administering and scoring WAIS-III, working with EEG, Eye Tracking and MRI with a technician.
 
