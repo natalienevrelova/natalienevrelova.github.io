@@ -1,9 +1,8 @@
 ## Experience
 
-<p><img src="images/WhatsApp Image 2021-08-10 at 14.31.03.jpeg" alt="Work" style="width:40%;float:right;margin:0em 0em 0em 3em /></p>
-
-  
 ### [CEITEC – Central European Institute of Technology](https://www.ceitec.eu/)
+
+<p><img src="images/WhatsApp Image 2021-08-10 at 14.31.03.jpeg" alt="Work" style="width:40%;float:right;margin:0em 0em 0em 3em /></p>
 
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/CEITEC_logo.jpg" alt="CEITEC" style="width:40%;float:right;margin:0em 0em 0em 3em" /></p>
 
