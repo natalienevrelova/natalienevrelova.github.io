@@ -1,9 +1,11 @@
-### FULL CV HERE:
+#### FULL CV HERE:
 [Natalie Nevrelova_CV.pdf](https://github.com/natalienevrelova/natalienevrelova.github.io/files/7122293/Natalie.Nevrelova_CV.pdf)
 
-##### EDUCATION
+#### EDUCATION
 2019 - present	University of Lincoln Bachelor degree in Psychology
+
 2018 – 2019	Masaryk university Bachelor degree in Psychology (left to pursue BSc in the UK)
+
 2015 – 2017 	Gymnázium Jana Palacha Praha 1, s.r.o.
 
 #### INTERNSHIPS AND RESEARCH 
