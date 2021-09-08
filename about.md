@@ -10,7 +10,6 @@
     
 I spent 6 months working in the [Behavioral and Social Neuroscience research group](https://www.ceitec.eu/behavioural-and-social-neuroscience-milan-brazdil/rg32/publication) of [Milan Brazdil](https://www.ceitec.eu/prof-milan-brazdil-ph-d/u17040) under the supervision of [Lenka Jurkovicova](https://www.ceitec.eu/lenka-jurkovicova/u91788). During my internship I worked on an international COST Project „Memory and Cognition“, which included two measurements of healthy participants from the general population. In the neuroscience part of the measurements, we collected fMRI scans, DNA samples, EEG scan in a resting mode as well as performing a Pattern Glare task while EEG and Eye Tracking was recorded. In the second behavioral part of the measurements, I administered a battery of cognitive and memory tasks the participants completed in a lab on a computer as well as the intelligence measurement WAIS-III. I gained experience with administering and scoring WAIS-III, working with EEG, Eye Tracking and MRI with a technician.
 
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/CEITEC_logo.jpg" alt="CEITEC" style="width:40%;float:right;margin:0em 0em 0em 3em" /></p>
 
 
 
@@ -23,19 +22,17 @@ Apart from diagnostics, I shadowed several psychotherapeutic interviews, took ac
 
 ### [H21](https://www.ih21.org/en/home)
 
-<p><img src="https://uploads-ssl.webflow.com/5b046d892298cf84d9a87d56/5c87bcd4bf528852dcaa49de_IFD21_logo_t_1.png" alt="H21" style="width:40%;float:right;margin:0em 0em 0em 3em" /></p>
+
 
 In the summer of 2020, I undertook an internship under [Dr. Ondrej Timco](https://www.linkedin.com/in/ondrej-timco-63330878/?originalSubdomain=cz) at the Institute H21, an NGO that focuses on alternative voting systems such as the 2 + 1 voting method that aims to show controversial voting option. During the course of my internship I developed an app to aid high school graduates with the organization, budgeting, promotion and fundraising for their graduation prom ball. I also worked on several projects within the participatory budgeting section of the NGO. I worked on school participatory budgeting and urban development planning projects where I learned a lot about project development, management and working in small teams. I ended the internship helping with the organization of the annual symposium that is organized with the Czech Senate.
 
 ### [PLESS – Prague Laboratoy for Experimental Social Sciences](https://pless.cz/en)
 
-<p><img src="https://pless.cz/wp-content/uploads/2020/09/cropped-logo_header_eng1.png" alt="PLESS" style="width:40%;float:right;margin:0em 0em 0em 3em" /></p>
 
 Active participation in the implementation of experimental studies in the laboratory: administration of the experiment "Research of daily activities, decision-making and reasoning" in cooperation with the Centre for Environmental Issues of the UK - interaction with participants, keeping individual deadlines, issuing rewards for participants. Involvement in the laboratory's scientific research activities: participation in the upcoming review study on euthanasia attitudes. During my years I worked closely mainly with [Nikola Frollova](https://www.linkedin.com/in/nikola-frollova-9b581ba2/) with whom I am currently preparring a paper for a peer reviewed journal. 
 
 ### [IKSP – Institute of Criminology and Social Prevention](http://www.ok.cz/iksp/en/e_aboutus.html)
 
-<p><img src="https://www.rubikoncentrum.cz/wp-content/uploads/2017/08/senora_0004_logo_IKSP.jpg" alt="IKSP" style="width:40%;float:right;margin:0em 0em 0em 3em" /></p>
 
 
 IKSP is a research organization under the Czech Ministry of Justice at which I undertook an internship in 2018 recoding news about criminal activity in the past 20 years. The research project lead by Lucie Hakova focused on how criminal activities are presented in the media to see if there is a typical narrative in the news about certain type of criminal activity. I was responsible for manually coding the news articles into a form that was then used for the analysis.
@@ -43,6 +40,6 @@ IKSP is a research organization under the Czech Ministry of Justice at which I u
 ### [Discover – Summer Academy Discover](https://discover.sk/what-is-discover/)
 
 
-<p><img src="https://www.mladiinfo.cz/wp-content/uploads/2016/04/522323_419631994729193_708953788_n.jpg" alt="Discover" style="width:40%;float:right;margin:0em 0em 0em 3em" /></p>
+
 
 Summer Academy for highschool students mainly from the Czech and Slovak Republics. I have been a student at the academy in years 2016 and 2017. Since then I have been working within the academy executive structure working on many aspects of the curriculum, including work in small teams focusing on mental health of our students, career workshops or psychological talks and workshops. In 2021 I taught my first 1 week course on [Forensic Psychology](https://discover.sk/kurzy/#forenzni.psychologie) as well as several workshops including Healthy Love 101, focusing on coping mechanisms for adolescents when they are experiencing romantic relatinships. 
