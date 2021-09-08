@@ -7,11 +7,11 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Natalie Nevrelova's personal website
-description: Natalie Nevrelova's personal website
+description: 
 github_username: natalienevrelova
 
 # Email and twitter are optional:
-email:
+email:nevrelovnatalie@gmail.com
 twitter_username: natalie_nvn
 
 # Set this to true to get LaTeX math equation support
