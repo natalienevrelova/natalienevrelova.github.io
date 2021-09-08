@@ -42,3 +42,9 @@ kramdown:
   auto_ids: true
   hard_wrap: false
   syntax_highlighter: rouge
+
+<style>
+.footer {
+  display: none;
+}
+</style>
