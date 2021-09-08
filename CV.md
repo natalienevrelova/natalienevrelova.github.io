@@ -37,7 +37,7 @@ Active participation in the implementation of experimental studies in the labora
 #### 2017 – current English Language and literature tutor 
 Since my graduation, I have worked as a private tutor of the English language with primary and secondary school children. Devised learning plans, curriculum and graded exams and essays while implementing developmental psychology and learning strategies. 
 
-##### 2017 – present Summer Academy Discover Alumni Reunion 
+#### 2017 – present Summer Academy Discover Alumni Reunion 
 Organization of summer academy for talented university students and working individuals. Responsibilities include program arrangement, inviting external speakers, online propagation and establishing a new scholarship system for students. 
 
 #### 2018 (1 month) IKSP (Institute of criminology and social prevention) 
