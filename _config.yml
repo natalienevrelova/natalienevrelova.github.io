@@ -7,13 +7,13 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Personal page Natalie Nevrelova
-description: Something
+# description: Something
 github_username: natalienevrelova
 
 # Email and twitter are optional:
 email: nevrelovnatalie@gmail.com
 twitter_username: natalie_nvn
-# linkedin: [Natalie Nevrelova] (https://www.linkedin.com/in/natalie-nevrelova-32374a206/)
+linkedin: [Natalie Nevrelova] (https://www.linkedin.com/in/natalie-nevrelova-32374a206/)
 
 # Set this to true to get LaTeX math equation support
 use_math:
