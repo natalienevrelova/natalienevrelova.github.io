@@ -12,8 +12,3 @@ I have worked on several projects across several psychological fields, including
 
 In my work I always strive to have a balance of research and applied psychology, which is why I aim to have most of my research directly applicable to clinical or non-clinical populations. My long-term goal is to design research and teach while working with a clinical population in an applied setting.
 
-<style>
-.footer {
-  display: none;
-}
-</style>
