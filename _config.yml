@@ -13,7 +13,7 @@ github_username: natalienevrelova
 # Email and twitter are optional:
 email: nevrelovnatalie@gmail.com
 twitter_username: natalie_nvn
-linkedin: [Natalie Nevrelova] (https://www.linkedin.com/in/natalie-nevrelova-32374a206/)
+# linkedin: [Natalie Nevrelova] (https://www.linkedin.com/in/natalie-nevrelova-32374a206/)
 
 # Set this to true to get LaTeX math equation support
 use_math:
@@ -42,9 +42,3 @@ kramdown:
   auto_ids: true
   hard_wrap: false
   syntax_highlighter: rouge
-
-<style>
-.footer {
-  display: none;
-}
-</style>
