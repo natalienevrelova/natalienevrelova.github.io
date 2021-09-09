@@ -11,3 +11,9 @@ Dating has evolved due to the influence of social media and technology advanceme
 I have worked on several projects across several psychological fields, including forensic psychology, social psychology, behavioural economics, neuropsychology, developmental psychology, cognitive psychology and health psychology. Out of my experiences, the most influencing has been my internship at the Childrens' Psychiatric Hospital Louny in my motherland the Czech Republic, along with my internship at CEITEC and volunteering and teaching at Summer Academy Discover.
 
 In my work I always strive to have a balance of research and applied psychology, which is why I aim to have most of my research directly applicable to clinical or non-clinical populations. My long-term goal is to design research and teach while working with a clinical population in an applied setting.
+
+<style>
+.footer {
+  display: none;
+}
+</style>
