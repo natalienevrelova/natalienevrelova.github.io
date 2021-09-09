@@ -1,6 +1,8 @@
 # FULL CV 
 [Natalie Nevrelova_CV.pdf](https://github.com/natalienevrelova/natalienevrelova.github.io/files/7122293/Natalie.Nevrelova_CV.pdf)
 
+Contact email: nevrelovnatalie@gmail.com
+
 #### EDUCATION
 2019 - present	University of Lincoln Bachelor degree in Psychology
 
