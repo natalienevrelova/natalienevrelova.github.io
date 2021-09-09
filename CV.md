@@ -45,10 +45,15 @@ IKSP is a separate research organization within the justice department of the Mi
 
 #### SKILLS AND CERTIFICATES
 Languages: Czech (native), English (C2 – native), Spanish (B2 – conversational)
+
 Tools and Software: SPSS, Excel, Word, Powerpoint, Qualtrics
+
 Certificates: CAE (Cambdridge English: Advanced): grade A, CEFR level: C2
+
 Programming languages: Python, HTML
+
 Neuroimaging: fMRI (experience with preparing patients for the scan, health and security check), EEG (application of the cap and adjusting the electrodes), Eye-Track (calibration, recording and general set-up experience)
+
 Psychodiagnostics: WISC-III, WAIS-III, PSDI, CDI, ADOS, ECR-R
 
 #### CONFERENCE PRESENTATIONS
