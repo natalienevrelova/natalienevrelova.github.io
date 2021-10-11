@@ -1,6 +1,6 @@
 ## Experience
 
-<p><img src="images/WhatsApp Image 2021-08-10 at 14.31.03.jpeg" alt="CEITEC" style="width:40%;float:right;margin:0em 0em 0em 0em;border-radius:1em 4em" /></p>
+<p><img src="images/WhatsApp Image 2021-08-10 at 14.31.03.jpeg" alt="CEITEC" style="width:40%;float:right;margin:0em 0em 0em 0em;border-radius:0em 0em" /></p>
 
 
 
