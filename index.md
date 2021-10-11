@@ -2,7 +2,7 @@
 
 ## About
 
-<p><img src="images/natalie_nevrelova_profile_picture.jpg" alt="Natalie" style="width:40%;float:right;margin:0em 0em 0em 3em;border-radius:1em 4em" /></p>
+<p><img src="images/natalie_nevrelova_profile_picture.jpg" alt="Natalie" style="width:40%;float:right;margin:0em 0em 0em 0em;border-radius:0em 0em" /></p>
 
 I am a third-year BSc Psychology student at the [University of Lincoln](https://www.lincoln.ac.uk/home/) currently working on a multistudy paper under the supervision of [Dr Ross Bartels](https://staff.lincoln.ac.uk/6f30c874-4460-4ecf-99d5-621467905cde) and [Dr Mark Gresswell](https://staff.lincoln.ac.uk/mgresswell). For the past two years, my research focus has been on the modern-day courtship of young adults to establish a baseline of typical courting behaviours of adults aged 18 - 25 years.
 
