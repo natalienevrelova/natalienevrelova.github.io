@@ -25,17 +25,24 @@ Cognition.
 • Administered comprehensive psychological examination of a patients under 
 supervision, Shadowed a comprehensive psychological examination of several 
 patients
+
 • Leading interviews during acute phases 
+
 • Conducted several supportive interviews with patients 
+
 • Worked with children aged 4 – 18 with wide range of mental disorders such as mood 
 disorders, thinking and behaviour disorders
+
 • Worked closely with patients suffering from eating disorders, bipolar disorder, 
 borderline personality disorder and major depressive disorder
 • Participated in rounds, individual interviews, group therapy and facilitation of a
 family meeting
+
 • Gained more experience with management of medical records and applying 
 knowledge of patient history when psych diagnosing
+
 • Developed better understanding of writing a thorough patient report
+
 ### 2021 (6 months) Central European Institute of Technology, Research Assistant, Brno Czech Republic
 • Worked on a COST Action NeuralArchCon international project looking at memory 
 and consciousness 
