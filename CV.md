@@ -1,5 +1,5 @@
 # FULL CV 
-[CV_Natalie Nevrelova.pdf](https://github.com/natalienevrelova/natalienevrelova.github.io/files/7470123/CV_Natalie.Nevrelova.pdf)
+
 
 Contact email: nevrelovnatalie@gmail.com
 
